@@ -106,7 +106,7 @@ void Laptop::Print() {
     ram.ShowR();    
     cout << "Motherboard: ";
     Bord.ShowBor(); 
-    cout << "Video Caard: ";
+    cout << "Video Caard: "; 
     Card.ShowCard();    
 }
 
